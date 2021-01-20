@@ -7,3 +7,5 @@ I believe Bazel can elevate software creation on a scale similiar to [automated 
 I value design simplicity, clear communication, static types, respectful collaboration, and rich IDEs. I'm indebted to many for helping me form these values.
 
 I gave a highly regarded [talk](https://www.youtube.com/watch?v=fVx59XOZtSA) on the history of [111 Eighth Ave](https://en.wikipedia.org/wiki/111_Eighth_Avenue) in 2016 based on extensive primary research.
+
+Contact me [here](https://github.com/gregestren/gregestren/discussions).
