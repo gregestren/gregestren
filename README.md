@@ -2,7 +2,7 @@
 
 I'm a staff software engineer at Google. I've been a core [Bazel](https://www.bazel.build/) developer since 2010.
 
-I [tech lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/) Bazel's *configurability effort*. We're a 5-person team that focuses on [multi-platform build support](https://bazel.build/extending/platforms), [user-definable project flags](https://bazel.build/extending/config), [analyzing build graphs](https://bazel.build/query/cquery), and various performance optimizations these features imply.
+I [tech lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/) Bazel's *configurability effort*. We're a 5-person team that focuses on [multi-platform builds](https://bazel.build/extending/platforms), [user-definable project flags](https://bazel.build/extending/config), [analyzing build graphs](https://bazel.build/query/cquery), and various performance optimizations these features imply.
 
 [Our users](https://bazel.build/community/users) include Lyft, SpaceX, Nvidia, Stripe, and of course Google. Major language build rules also use configurability features, such as [Apple](https://github.com/bazelbuild/rules_apple), [Android](https://github.com/bazelbuild/rules_android), [Java](https://github.com/bazelbuild/rules_java), [Python](https://github.com/bazel-contrib/rules_python), and [Go](https://github.com/bazel-contrib/rules_go)
 
