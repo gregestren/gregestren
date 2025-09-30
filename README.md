@@ -1,12 +1,14 @@
 :white_circle:
 
-I'm a senior software engineer at Google who's been a core [Bazel](https://www.bazel.build/) dev since 2010.
+I'm a staff software engineer at Google. I've been a core [Bazel](https://www.bazel.build/) developer since 2010.
 
-I've been [tech lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/) for Bazel's [configurability effort](https://bazel.build/roadmaps/configuration.html) since 2016. I wrote [this summary](https://blog.bazel.build/2019/02/11/configurable-builds-part-1.html) in 2019.
+I [tech lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/) Bazel's *configurability effort*. We're a 5-person team that focuses on [multi-platform build support](https://bazel.build/extending/platforms), [user-definable project flags](https://bazel.build/extending/config), [analyzing build graphs](https://bazel.build/query/cquery), and various performance optimizations these features imply.
 
-I believe Bazel can elevate software creation on a scale similiar to [automated testing](https://martinfowler.com/articles/practical-test-pyramid.html?ref=hackernoon.com#TheImportanceOftestAutomation), [continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html), and [social coding](https://www.ibm.com/garage/method/practices/culture/practice_social_coding/), particularly because of its strength in [reproducible builds](https://en.wikipedia.org/wiki/Reproducible_builds). It's a clear leader in a new generation of build tools.
+[Our users](https://bazel.build/community/users) include Lyft, SpaceX, Nvidia, Stripe, and of course Google. Major language build rules also use configurability features, such as [Apple](https://github.com/bazelbuild/rules_apple), [Android](https://github.com/bazelbuild/rules_android), [Java](https://github.com/bazelbuild/rules_java), [Python](https://github.com/bazel-contrib/rules_python), and [Go](https://github.com/bazel-contrib/rules_go)
 
-I value design simplicity, clear communication, [automated pipelines](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd/), respectful collaboration, and rich IDEs. I'm indebted to many for helping me form these values.
+I wrote [this summary](https://blog.bazel.build/2019/02/11/configurable-builds-part-1.html) in 2019 and contributed to [this post](https://blog.bazel.build/2024/08/08/bazel-for-embedded.html) announcing the [Pigweed SDK](https://pigweed.dev/)'s Bazel support and Raspberry Pi collaboration.
+
+I believe Bazel remains a clear leader in a new generation of build tools and there remains much opportunity to unlock more improvements that can qualitatively improve software engineering.
 
 I gave a highly regarded [talk](https://www.youtube.com/watch?v=fVx59XOZtSA) on the history of [111 Eighth Ave](https://en.wikipedia.org/wiki/111_Eighth_Avenue) in 2016 based on extensive primary research.
 
